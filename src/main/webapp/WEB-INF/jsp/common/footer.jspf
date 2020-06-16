@@ -9,10 +9,9 @@
 </script>
 
 
-<div class="footer">
-
+<div id="fotter" class="panel-footer"  style="margin-top: 60%">
 	<h1>
-		<a href="https://mail.google.com/mail">
+		<a id="gmail" href="https://mail.google.com/mail">
 			Gmail</a>
 	</h1>
 </div>
